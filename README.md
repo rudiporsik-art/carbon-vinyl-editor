@@ -1,6 +1,6 @@
 # Carbon Vinyl Editor
 
-**Built by rudiporsik-art and Savento.**
+**Built by rudiporsik-art and Saventto.**
 
 A standalone vinyl editor for **NFS Carbon** saves (nfscrb.xyz). Build your whole livery on PC or Mac with a live 3D preview and save it straight back into your Carbon save.
 
